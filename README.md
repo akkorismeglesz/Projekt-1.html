@@ -28,7 +28,7 @@ The challenge was to try out a (for us) new programming language. I have never u
 - was difficult for me, because
     + I created an infinite loop...
     + without knowing the basics of a programming language is difficult to search for a bug, or in this case for the bugs...
-- I spent five hours fixing the problems and/or creating a better game. But at the end I searched for another solution and I tried to improve my code with that. But my best solution worked only 66,6% well. Finally, when I almost gave up the idea of the game, I found a solution that **_works_**.
+- I spent five hours fixing the problems and/or creating a better game. But at the end I searched for another solution and I tried to improve my code with that. But my best solution worked only 66,6% well. Finally, when I almost gave up the idea of creating the game, I found a solution that **_works_**.
 - wasn't part of my original plan. But I am glad to have built it and I am planning to improve it in the future.
 
 ### Conclusion
