@@ -11,6 +11,7 @@ The challange was to try out a (for us) new programming language. I have never u
 + has two parts
 + was built with HTML5, CSS3 and JavaScript
 + is very small and you can find everything in the html file
++ You can find the JavaScript parts within the html file
 + works :)
 
 ### First part
